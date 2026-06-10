@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbbabfb89577bbe46a7be6ebc91fb660, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  Width: 15
+  Height: 15
+  CustomMineNumber: 0
+  SafeFirstClick: 1
+  CellPrefab: {fileID: 1426634550020270572, guid: f91180767aa82834ea1f4c4a9b8ece4e, type: 3}
+  ClosedCellSprite: {fileID: -1289303406, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  EmptyCellSprite: {fileID: 1453077659, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  FlagCellSprite: {fileID: -664872911, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  MineCellSprite: {fileID: 1816072135, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  NumberSprites:
+  - {fileID: 425204626, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  - {fileID: 1417640342, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  - {fileID: 1873574875, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  - {fileID: -1888002348, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  - {fileID: 1642707361, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  - {fileID: 1913751648, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  - {fileID: -96724637, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}
+  - {fileID: 575039926, guid: f6c28c0fae7d3974f9c77d8ee18bfcd9, type: 3}

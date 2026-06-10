@@ -1,0 +1,22 @@
+{
+    "name": "Minesweeper.Presentation",
+    "rootNamespace": "Minesweeper.Presentation",
+    "references": [
+        "Minesweeper.Core",
+        "Minesweeper.Bootstrap",
+        "Unity.Entities",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "VContainer",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
